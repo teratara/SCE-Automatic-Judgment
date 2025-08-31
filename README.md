@@ -2,7 +2,7 @@
 
 This repository will be the sample code for the title paper.
 
-Click google Drive Downloading!
+Downloding from https://drive.google.com/file/d/1bzCb4V5Z2NX0crg_uNt4tmpwUr0cdFxA/view?usp=sharing
 
 ## Usage
 1. Open SCE_Automatic_Judgement.7z

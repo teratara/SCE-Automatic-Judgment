@@ -2,12 +2,11 @@
 
 This repository will be the sample code for the title paper.
 
-Click google Drive Doenloading!
+Click google Drive Downloading!
 
 ## Usage
-1. Open .ipynb
-2. Click open in colab SCE_Automatic_Judgement.ipynb
-3. Click Runtime → Change runtime type → Hardware accelerator　: GPU
-4. Run the code in order from the top
-5. The parts that can be changed are marked with "###" at the beginning.
-   ※
+1. Open SCE_Automatic_Judgement.7z
+2. Upload /SCE_Automatic_Judgement on your Google Drive.
+3. Open SCE_Automatic_Judgement.ipynb in Google Colabratry.
+4. Run the code in order from the top with GPU.
+※If you are prompted to restart the runtime during a session, please restart the runtime. After that, please run again from the most recent code cell.
